@@ -1,0 +1,28 @@
+body {
+  min-height: 90vh;
+  background: #212534;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+}
+h1 {
+  color: white;
+  font-family: "Titan One", cursive;
+  margin-bottom: 20px;
+}
+
+img{
+  margin: auto;
+}
+
+input{
+  background-color: blueviolet;
+  color: white;
+  font-size: 1rem;
+  margin: 20px 0px;
+  padding: 20px;
+}
+
